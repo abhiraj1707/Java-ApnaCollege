@@ -34,6 +34,5 @@ public class Week {
             System.out.println("Wrong input. Please enter Week number between 1-7.");
             
         }
-            
     }
 }
