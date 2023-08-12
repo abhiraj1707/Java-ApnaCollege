@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Prime_Range {
     public static boolean isPrime(int n) {  
         if (n <= 1) {  
