@@ -4,7 +4,6 @@ public class Binary_Search {
 
         while(start <= end) {
             int mid = (start + end) / 2;
-
             //comparisons
             if(numbers[mid] == key) { //found
                 return mid;
