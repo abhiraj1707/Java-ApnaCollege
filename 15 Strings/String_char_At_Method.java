@@ -11,7 +11,6 @@ public class String_char_At_Method {
         String lastName = "Singh";
         String fullName = firstName + " " + lastName;
         
-
         printLetters(fullName);
-    }    
+    } 
 }
