@@ -16,6 +16,5 @@ public class Bill {
 
         float AfterGST = total + (0.18f * total);
         System.out.println("Bill after adding 18% GST : " + AfterGST);
-
     }
 }
